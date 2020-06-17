@@ -26,8 +26,8 @@ namespace Power.Analyzer
             // ToDo: Add test case code.
             RunChildSteps(); //If the step supports child steps.
 
-            // If no verdict is used, the verdict will default to NotSet.
-            // You can change the verdict using UpgradeVerdict() as shown below.
+            MyInst.ScpiCommand("*RST");
+            MyInst.ScpiCommand(":STATus:PRESet");
             // UpgradeVerdict(Verdict.Pass);
         }
     }

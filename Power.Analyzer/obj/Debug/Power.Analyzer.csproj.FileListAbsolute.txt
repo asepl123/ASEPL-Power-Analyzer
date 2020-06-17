@@ -1,0 +1,7 @@
+C:\Users\ae1\source\repos\Output\Power-Analyzer\Power.Analyzer.dll
+C:\Users\ae1\source\repos\Output\Power-Analyzer\Power.Analyzer.pdb
+C:\Users\ae1\Source\Repos\tarang1606\ASEPL-Power-Analyzer\Power.Analyzer\obj\Debug\Power.Analyzer.csproj.CoreCompileInputs.cache
+C:\Users\ae1\Source\Repos\tarang1606\ASEPL-Power-Analyzer\Power.Analyzer\obj\Debug\Power.Analyzer.csproj.CopyComplete
+C:\Users\ae1\Source\Repos\tarang1606\ASEPL-Power-Analyzer\Power.Analyzer\obj\Debug\Power.Analyzer.dll
+C:\Users\ae1\Source\Repos\tarang1606\ASEPL-Power-Analyzer\Power.Analyzer\obj\Debug\Power.Analyzer.pdb
+C:\Users\ae1\Source\Repos\tarang1606\ASEPL-Power-Analyzer\Power.Analyzer\obj\Debug\Power.Analyzer.csprojAssemblyReference.cache

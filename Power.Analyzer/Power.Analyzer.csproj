@@ -17,7 +17,7 @@
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
-    <OutputPath>C:\Users\ae1\source\repos\Output\Power.Analyzer\</OutputPath>
+    <OutputPath>C:\Users\ae1\source\repos\Output\Power-Analyzer\</OutputPath>
   </PropertyGroup>
 
   <ItemGroup>
